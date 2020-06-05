@@ -19,7 +19,7 @@ Cabe destacar que CovidInfo es totalmente segura y no extrae información person
 
 ## El equipo detrás de CovidInfo
 CovidInfo es un desarrollo del Ing. Antonio Collazo García (becario del Centro de Investigación y Transferencia Santa Cruz) en conjunto con la Dra. Sandra Casas, Juan Enriquez, María del Carmen Díaz Labrador, Ariel Machini y Cinthia Lima.
-Esta aplicación sirve al caso de estudio y experimentos de la tesis doctoral del Ing. Collazo García, la cual refiere a la calidad de aplicaciones móviles. Al mismo tiempo, CovidInfo contribuye también al proyecto de investigación 29/A449 “*Estrategias para el desarrollo de web MASHUP*”, acreditado y financiado por la UNPA y dirigido por la Dra. Sandra Casas.
+Esta aplicación sirve al caso de estudio y experimentos de la tesis doctoral del Ing. Collazo García, la cual refiere a la calidad de aplicaciones móviles. Al mismo tiempo, CovidInfo contribuye también al proyecto de investigación 29/A449 *Estrategias para el desarrollo de web MASHUP*, acreditado y financiado por la UNPA y dirigido por la Dra. Sandra Casas.
 
 ## Descargar CovidInfo
 Puede descargar CovidInfo desde el sitio web de la Universidad Nacional de la Patagonia Austral haciendo clic en el botón que está a continuación:
